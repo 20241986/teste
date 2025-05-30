@@ -8,9 +8,9 @@ JavaScript- ![javascript-logo](https://img.shields.io/badge/JavaScript-F7DF1E?st
 
 NODE.JS- ![node.js-logo](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<b><b/>
-<b><b/>
-<b><b/>
+<br><br/>
+<br><br/>
+<br><br/>
 
 
 [![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/juliana-da-luz-080421251)
