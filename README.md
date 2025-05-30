@@ -13,7 +13,7 @@ NODE.JS- ![node.js-logo](https://img.shields.io/badge/Node.js-43853D?style=for-t
 <b><b/>
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/20241986)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-da-luz-080421251)
 
 
 
